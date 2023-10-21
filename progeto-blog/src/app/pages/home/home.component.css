@@ -1,0 +1,18 @@
+.articles {
+    width: 100vw;
+    height: 70vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.articles_main {
+    width: 50vw;
+}
+
+.articles_others {
+    width: 50vw;
+}
+
+header {
+    
+}

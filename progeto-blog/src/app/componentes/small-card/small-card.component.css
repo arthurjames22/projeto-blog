@@ -1,0 +1,11 @@
+.container_small-card {
+    display: flex;
+    flex-direction: row ;
+    border-bottom: solid white 1px;
+    margin-top: 5px;
+}
+
+.samll-card_photo > img {
+    width: 200px;
+    margin-right: 22px;
+}

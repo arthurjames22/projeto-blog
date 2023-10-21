@@ -22,9 +22,9 @@
     color: grey;
 }
 
-.big-card_photo > img {
+.big-card_photo > a > img {
     margin-top: 3px;
-    width:px;
+    width:500px;
     height:350px;
     background-color: #fff;
     position: relative;

@@ -1,9 +1,4 @@
-.container_menu-bar {
-    border: solid white 1px;
-    margin-top: 10px;
-    
-  
-}
+
 
 .container_menu-bar > ul {
     display: flex;
